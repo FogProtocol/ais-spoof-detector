@@ -52,7 +52,7 @@ ais-spoof-detector/          ← your project folder
 ### 📥 Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/myUniverseVatsa/ais-spoof-detector.git
+git clone https://github.com/FogProtocol/ais-spoof-detector.git
 cd ais-spoof-detector
 ```
 
@@ -87,7 +87,7 @@ python report_anomalies.py
 ## 👤 Author
 
 **Gagan H S**
-- GitHub: [@myUniverseVatsa](https://github.com/myUniverseVatsa)
+- GitHub: [@FogProtocol](https://github.com/FogProtocol)
 
 ---
 
